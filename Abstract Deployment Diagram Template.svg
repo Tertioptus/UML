@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1052.3622 744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Abstract Deployment Diagram Template.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="710.96615"
+     inkscape:cy="336.01143"
+     inkscape:document-units="px"
+     inkscape:current-layer="artifactContainer"
+     showgrid="true"
+     inkscape:snap-grids="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4161"
+       spacingx="2"
+       spacingy="2"
+       visible="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <g
+       id="g4735">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:0.32768363;stroke:#000000;stroke-width:6;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4668"
+         width="1054.2858"
+         height="744.28571"
+         x="-3.9635563e-007"
+         y="309.50507"
+         ry="25.4126"
+         rx="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6.5140543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1.2643321,358.8 270.9334079,0 57.57335,-48.29926"
+         id="path4672"
+         inkscape:connector-curvature="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4731"
+         y="339.79077"
+         x="20"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="339.79077"
+           x="20"
+           id="tspan4733"
+           sodipodi:role="line">dd Some Diagram Title</tspan></text>
+    </g>
+    <g
+       style="opacity:1"
+       transform="matrix(0.30402756,0,0,0.30402756,-126.14785,238.88634)"
+       id="artifact">
+      <desc
+         id="desc4209">abstraction of system entity</desc>
+      <title
+         id="title4207">Artifact</title>
+      <circle
+         r="136.67453"
+         cy="630.62347"
+         cx="236.88077"
+         id="path4138"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:10.16502476;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4140"
+         y="697.96167"
+         x="176.68486"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:158.82852173px;line-height:125%;font-family:Symbol;-inkscape-font-specification:Symbol;letter-spacing:0px;word-spacing:0px;baseline-shift:super;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="697.96167"
+           x="176.68486"
+           id="tspan4142"
+           sodipodi:role="line">C</tspan></text>
+    </g>
+    <g
+       style="opacity:1"
+       transform="matrix(0.34889004,0,0,0.34163798,-150.47095,367.3598)"
+       id="artifactQuantified">
+      <desc
+         id="desc4338">expresses availability of system entities</desc>
+      <title
+         id="title4336">Artifact Quantifier Expression</title>
+      <ellipse
+         ry="116.36926"
+         rx="116.36927"
+         cy="607.44623"
+         cx="278.96915"
+         id="circle"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:8.65484047;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="#artifactLifeExpression">
+        <desc
+           id="desc4280">Expresses the available of a certain entity</desc>
+        <title
+           id="title4278">Artifact Life Expression</title>
+      </ellipse>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4140-9"
+         y="673.73737"
+         x="214.03004"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:141.57131958px;line-height:125%;font-family:Symbol;-inkscape-font-specification:Symbol;letter-spacing:0px;word-spacing:0px;baseline-shift:super;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="673.73737"
+           x="214.03004"
+           id="tspan4142-7"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:84.70854187px;line-height:125%;font-family:Symbol;-inkscape-font-specification:Symbol;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="303.38831"
+         y="601.85645"
+         id="text4274"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4276"
+           x="303.38831"
+           y="601.85645">*</tspan></text>
+    </g>
+    <g
+       style="opacity:1"
+       id="artifactQuantifiedId"
+       transform="matrix(0.34101154,0,0,0.3399301,-151.18108,529.11805)">
+      <desc
+         id="desc4413">expresses the availabity of an identified system entity</desc>
+      <title
+         id="title4411">Identified Artifact Availability</title>
+      <circle
+         r="121.82442"
+         cy="601.78821"
+         cx="284.62717"
+         id="circle-8"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.06056309;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="#artifactLifeExpression">
+        <desc
+           id="desc4280-7">Expresses the available of a certain entity</desc>
+        <title
+           id="title4278-0">Artifact Life Expression</title>
+      </circle>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4140-9-5"
+         y="661.80988"
+         x="193.67075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:141.57131958px;line-height:125%;font-family:Symbol;-inkscape-font-specification:Symbol;letter-spacing:0px;word-spacing:0px;baseline-shift:super;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="661.80988"
+           x="193.67075"
+           id="tspan4142-7-3"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:84.70854187px;line-height:125%;font-family:Symbol;-inkscape-font-specification:Symbol;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="293.39914"
+         y="593.33679"
+         id="text4274-8"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4276-6"
+           x="293.39914"
+           y="593.33679">*</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.2711792px;line-height:125%;font-family:Symbol;-inkscape-font-specification:Symbol;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="289.71619"
+         y="671.70563"
+         id="text4274-8-5"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:34.7033844px"
+           sodipodi:role="line"
+           id="tspan4276-6-1"
+           x="289.71619"
+           y="671.70563">ID1</tspan></text>
+    </g>
+    <g
+       style="opacity:1"
+       id="artifactId"
+       transform="matrix(0.3409167,0,0,0.33938716,-151.1421,680.98471)">
+      <desc
+         id="desc4413-3">an identified system entity</desc>
+      <title
+         id="title4411-9">Identified Artifact</title>
+      <circle
+         r="121.82442"
+         cy="601.78821"
+         cx="284.62717"
+         id="circle-8-2"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.06056309;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="#artifactLifeExpression">
+        <desc
+           id="desc4280-7-5">Expresses the available of a certain entity</desc>
+        <title
+           id="title4278-0-1">Artifact Life Expression</title>
+      </circle>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4140-9-5-5"
+         y="661.80988"
+         x="193.67075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:141.57131958px;line-height:125%;font-family:Symbol;-inkscape-font-specification:Symbol;letter-spacing:0px;word-spacing:0px;baseline-shift:super;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="661.80988"
+           x="193.67075"
+           id="tspan4142-7-3-8"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.2711792px;line-height:125%;font-family:Symbol;-inkscape-font-specification:Symbol;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="289.71619"
+         y="671.70563"
+         id="text4274-8-5-1"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:34.7033844px"
+           sodipodi:role="line"
+           id="tspan4276-6-1-1"
+           x="289.71619"
+           y="671.70563">ID1</tspan></text>
+    </g>
+    <g
+       transform="matrix(1.1805185,0,0,1.1805185,866.77817,-270.01397)"
+       id="artifactContainer">
+      <title
+         id="title4741">Artifact Container</title>
+      <rect
+         style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:5.08251238;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4485"
+         width="406.60098"
+         height="315.84186"
+         x="181.82722"
+         y="553.82843"
+         ry="25.412563" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.02458239;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4485-4"
+         width="406.65891"
+         height="308.63907"
+         x="181.79828"
+         y="588.04578"
+         ry="24.833027" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.94170761px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="197.31683"
+         y="580.20911"
+         id="text4638"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4640"
+           x="197.31683"
+           y="580.20911"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.2948494px;font-family:Symbol;-inkscape-font-specification:Symbol">Some Artifact Type: ID</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:23.2948494px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="553.33472"
+         y="579.48315"
+         id="text4648"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4650"
+           x="553.33472"
+           y="579.48315">?</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="277.79196"
+       y="598.80371"
+       id="text4152"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4154"
+         x="277.79196"
+         y="598.80371" /></text>
+  </g>
+</svg>
